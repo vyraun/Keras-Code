@@ -1,2 +1,2 @@
 # Keras-Code
-Useful code for with Keras.
+Useful code for working with Keras.
